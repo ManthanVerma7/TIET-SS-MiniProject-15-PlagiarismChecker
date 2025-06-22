@@ -1,0 +1,1 @@
+# TIET-SS-MiniProject-15-PlagiarismChecker
